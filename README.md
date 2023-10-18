@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JosefGisis
 - 👀 I’m interested in a career in programming
 - 🌱 I’m currently learning python and computer science 
-- 💞️ I’m looking to build my protfolio and gain experience
+- 💞️ I’m looking to build my portfolio and gain experience
 - 📫 You can contact me through github
 
 <!---
