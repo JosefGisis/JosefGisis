@@ -10,7 +10,7 @@
 -   Expanding my skills in Python, JavaScript, and TypeScript
 -   Learning computer science and broadening by programming knowledge
 -   Working on personal and commercial web development projects
--   Interning as a full-stack software developer at Documint LLC
+-   Working with Documint as a full-stack software developer
 
 <!-- ## 💼 Experience
 
